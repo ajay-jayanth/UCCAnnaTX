@@ -1,0 +1,33 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 25 Sep 2020 18:48:10 at http://uccannatx.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://uccannatx.com -O1 "C:\My Web Sites\UCCAnnaTX.com" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:49:05	Error: 	"Method Not Allowed" (405) at link uccannatx.com/xmlrpc.php (from uccannatx.com/)
+18:50:02	Warning: 	Retry after error -4 (No data (connection closed)) at link uccannatx.com/services/ (from uccannatx.com/)
+18:51:03	Warning: 	Retry after error -4 (No data (connection closed)) at link uccannatx.com/wp-content/uploads/2020/02/logo-bcbs.jpg (from uccannatx.com/)
+18:51:07	Warning: 	Retry after error -4 (No data (connection closed)) at link uccannatx.com/wp-content/themes/Divi/core/admin/js/common.js?ver=4.3.2 (from uccannatx.com/)
+18:51:07	Warning: 	Moved Permanently for uccannatx.com/?p=120
+18:51:07	Warning: 	File has moved from uccannatx.com/?p=120 to http://uccannatx.com/about-dr-uma-chintapalli/
+18:51:16	Warning: 	Moved Permanently for uccannatx.com/?p=546
+18:51:16	Warning: 	File has moved from uccannatx.com/?p=546 to http://uccannatx.com/patient-forms/
+18:51:16	Warning: 	Retry after error -4 (No data (connection closed)) at link uccannatx.com/wp-content/uploads/2020/08/urgent-care-clinic-of-anna-patient-forms.pdf (from uccannatx.com/patient-forms/)
+18:51:16	Warning: 	Moved Permanently for uccannatx.com/?p=218
+18:51:16	Warning: 	File has moved from uccannatx.com/?p=218 to http://uccannatx.com/price-list/
+18:51:16	Warning: 	Retry after error -4 (No data (connection closed)) at link uccannatx.com/wp-content/uploads/2020/02/blood-work-urgent-care-anna-1024x684.jpg (from uccannatx.com/price-list/)
+18:51:28	Warning: 	Moved Permanently for uccannatx.com/?p=419
+18:51:28	Warning: 	File has moved from uccannatx.com/?p=419 to http://uccannatx.com/vitamin-infusion-services/
+18:51:28	Warning: 	Retry after error -4 (No data (connection closed)) at link uccannatx.com/wp-content/uploads/2020/07/recovery-1024x688.jpg (from uccannatx.com/vitamin-infusion-services/)
+18:51:28	Warning: 	Retry after error -4 (No data (connection closed)) at link uccannatx.com/wp-content/uploads/2020/07/vitamin-b-complex-1024x683.jpg (from uccannatx.com/vitamin-infusion-services/)
+18:51:42	Warning: 	Retry after error -4 (No data (connection closed)) at link uccannatx.com/wp-content/uploads/2020/07/performance-enhancer-muscle-growth-1024x707.jpg (from uccannatx.com/vitamin-infusion-services/)
+18:51:43	Warning: 	Retry after error -4 (No data (connection closed)) at link uccannatx.com/wp-content/uploads/2020/07/weight-loss-injection-1024x683.jpg (from uccannatx.com/vitamin-infusion-services/)
+18:51:47	Warning: 	Moved Permanently for uccannatx.com/?p=130
+18:51:47	Warning: 	File has moved from uccannatx.com/?p=130 to http://uccannatx.com/services/
+18:54:10	Warning: 	Retry after error -4 (No data (connection closed)) at link uccannatx.com/wp-content/uploads/2020/07/recovery-1024x688.jpg (from uccannatx.com/vitamin-infusion-services/)
+18:54:10	Warning: 	Retry after error -4 (No data (connection closed)) at link uccannatx.com/wp-content/uploads/2020/07/performance-enhancer-muscle-growth-1024x707.jpg (from uccannatx.com/vitamin-infusion-services/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 8 seconds : 119 links scanned, 101 files written (11027885 bytes overall) [9245486 bytes received at 25123 bytes/sec], 2234127 bytes transferred using HTTP compression in 43 files, ratio 18%, 3.4 requests per connection
+(1 errors, 21 warnings, 0 messages)
